@@ -1,17 +1,11 @@
-# study_group_finder
+# Study Group Finder
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Welcome Screen](screenshots/welcome_screen.png)
+![List Screen](screenshots/list_screen.png)
+![Group Details](screenshots/group_details.png)
+![Create Form](screenshots/create_form.png)
+![Create Group](screenshots/create_group.png)
+![Creating Group](screenshots/creating_group.png)
+![Update Form](screenshots/update_edit_form.png)
+![Delete Confirmation](screenshots/delete_confirmation.png)
+![Request for Join](screenshots/request_for_join.png)
